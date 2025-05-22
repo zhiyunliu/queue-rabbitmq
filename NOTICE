@@ -1,20 +1,25 @@
-This project includes third-party code under the following licenses:
+This project includes third-party components under the following licenses:  
 
-1. MIT License:
-   - github.com/orcaman/concurrent-map/v2
-   - github.com/redis/go-redis/v9
-   - github.com/zhiyunliu/glue
-   - github.com/zhiyunliu/golibs
-   - github.com/zhiyunliu/redisqueue/v3
-   - github.com/cespare/xxhash/v2
-   - github.com/dgryski/go-rendezvous
-   - github.com/google/uuid
-   - github.com/imdario/mergo
-   - github.com/pkg/errors
-   - github.com/shopspring/decimal
 
-2. BSD 3-Clause:
-   - golang.org/x/sync
+1. **github.com/orcaman/concurrent-map/v2** (MIT License)  
+   Copyright (c) [Year] Orcaman.  
+   [Repository: https://github.com/orcaman/concurrent-map]  
 
-3. BSD 2-Clause:
-   - google.golang.org/protobuf
+2. **github.com/rabbitmq/amqp091-go** (MIT License)  
+   Copyright (c) [Year] RabbitMQ.  
+   [Repository: https://github.com/rabbitmq/amqp091-go]  
+
+3. **golang.org/x/sync** (BSD-3-Clause License)  
+   Copyright (c) [Year] The Go Authors.  
+   [Repository: https://cs.opensource.google/go/x/sync]  
+
+4. **google.golang.org/protobuf** (BSD-3-Clause License)  
+   Copyright (c) [Year] The Go Authors.  
+   [Repository: https://github.com/protocolbuffers/protobuf-go]  
+
+5. **github.com/shopspring/decimal** (MIT License)  
+   Copyright (c) [Year] Spring.  
+   [Repository: https://github.com/shopspring/decimal]  
+
+
+
